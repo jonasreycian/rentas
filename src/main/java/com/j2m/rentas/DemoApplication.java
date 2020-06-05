@@ -1,4 +1,4 @@
-package com.j2m.rentas.rentas;
+package com.j2m.rentas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
